@@ -13,13 +13,7 @@ I'm an engineer at heart, slinging code and architecting solutions with a passio
 - Experimenting with agentic AI to create smarter, more autonomous workflows.
 - Building tools that maximize automation, prioritize data privacy, and deliver quick value—check out my repos for some cool projects!
 
-## Tech Stack
-- **Languages**: Python, JavaScript, Swift
-- **Frameworks & Tools**: React, Node.js, PyTorch, TensorFlow
-- **Focus**: AI, cloud-agnostic architectures, scalable systems
-
 ## Let’s Connect
-- 📫 Reach me at chris@ravenai.ai
 - 🐦 Follow me on [X](https://x.com/chris4raven) for tech insights and coding vibes
 - 🌐 Check out [ravenai.ai](https://ravenai.ai) for more on what I’m building
 
