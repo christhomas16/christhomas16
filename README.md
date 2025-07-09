@@ -1,4 +1,4 @@
-# Hi 👋
+# Innovation via Technology
 
 I'm an engineer at heart, slinging code and architecting solutions with a passion for innovation. As the CEO and founder of [Raven AI](https://ravenai.ai), I blend my deep tech roots with leadership to build cutting-edge AI-driven platforms. I thrive on crafting scalable, cloud-agnostic systems and diving into the latest AI tools—think agentic AI workflows and intelligent architectures.
 
